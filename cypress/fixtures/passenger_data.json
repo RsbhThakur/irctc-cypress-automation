@@ -1,26 +1,19 @@
 {
-  "TRAIN_NO": "13185",
+  "TRAIN_NO": "12394",
   "TRAIN_COACH": "3A",
-  "TRAVEL_DATE": "24/08/2024",
-  "SOURCE_STATION": "SDAH",
+  "TRAVEL_DATE": "03/06/2025",
+  "SOURCE_STATION": "NDLS",
   "BOARDING_STATION": null,
-  "DESTINATION_STATION": "DBG",
-  "TATKAL": true,
+  "DESTINATION_STATION": "PNBE",
+  "TATKAL": false,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "Shivam Pandey",
-      "AGE": 26,
+      "NAME": "Munishwar Thakur",
+      "AGE": 43,
       "GENDER": "Male",
-      "SEAT": "No Preference",
-      "FOOD": "No Food"
-    },
-    {
-      "NAME": "Shivam Dubey",
-      "AGE": 26,
-      "GENDER": "Female",
-      "SEAT": "No Preference",
+      "SEAT": "Lower",
       "FOOD": "No Food"
     }
   ],
